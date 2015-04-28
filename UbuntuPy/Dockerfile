@@ -3,7 +3,7 @@
 #
 # Combines Ubuntu + Python
 #
-# https://github.com
+# https://github.com/Kentoseth/Docker/tree/master/UbuntuPy
 
 FROM ubuntu:14.04
 MAINTAINER "Moe" <kentoseth@devcroo.com>
